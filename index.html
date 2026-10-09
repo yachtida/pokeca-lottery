@@ -1,0 +1,28 @@
+<!doctype html><html lang="ja"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>ポケカ抽選 受付中一覧</title><style>
+body{font-family:system-ui,sans-serif;margin:0;padding:12px;background:#f6f7f9;color:#222}h1{font-size:1.3em;margin:4px 0}
+.upd{color:#555;font-size:.9em;margin-bottom:10px}table{border-collapse:collapse;width:100%;background:#fff}
+th,td{border:1px solid #ddd;padding:6px;font-size:.9em;vertical-align:top;text-align:left}th{background:#eee}
+tr.today td{background:#ffe0e0}tr.today td:first-child{color:#c00;font-weight:bold}
+tr.tomorrow td{background:#fff0dc}tr.tomorrow td:first-child{color:#d46b00;font-weight:bold}
+.new{background:#e33;color:#fff;border-radius:4px;padding:1px 5px;font-size:.8em}.ok{color:#080}.ng{color:#888}
+h2{font-size:1.05em;margin-top:22px}#up td,#up th{font-size:.8em}
+@media(max-width:700px){#main thead{display:none}#main tr{display:block;margin-bottom:10px;border:1px solid #ccc;border-radius:8px;overflow:hidden}
+#main td{display:block;border:none;border-bottom:1px solid #eee}#main td:before{content:attr(data-l)"：";font-weight:bold;color:#666}}
+</style></head><body>
+<h1>ポケカ抽選 受付中一覧</h1><div class="upd" id="upd">読み込み中…</div>
+<table id="main"><thead><tr><th>締切</th><th>商品</th><th>店名</th><th>応募条件</th><th>応募リンク</th><th>公式確認</th><th>NEW</th></tr></thead><tbody></tbody></table>
+<h2>近日受付開始の予告</h2><table id="up"><thead><tr><th>開始予定</th><th>店名</th><th>内容</th><th>公式確認</th></tr></thead><tbody></tbody></table>
+<script>
+const W="日月火水木金土",e=s=>String(s??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const jst=d=>new Date(d.getTime()+9*36e5),key=d=>jst(d).toISOString().slice(0,10);
+function fmt(s){const d=jst(new Date(s));return`${d.getUTCMonth()+1}/${d.getUTCDate()}(${W[d.getUTCDay()]}) ${String(d.getUTCHours()).padStart(2,"0")}:${String(d.getUTCMinutes()).padStart(2,"0")}`}
+fetch("data.json?"+Date.now()).then(r=>r.json()).then(j=>{
+const now=new Date();document.getElementById("upd").textContent="最終更新："+fmt(j.updated)+" JST";
+const t=key(now),tm=key(new Date(now.getTime()+864e5));
+const it=j.items.filter(x=>!x.deadline||new Date(x.deadline)>now).sort((a,b)=>(a.deadline?Date.parse(a.deadline):1e15)-(b.deadline?Date.parse(b.deadline):1e15));
+document.querySelector("#main tbody").innerHTML=it.map(x=>{const k=x.deadline?key(new Date(x.deadline)):"",c=k===t?"today":k===tm?"tomorrow":"";
+return`<tr class="${c}"><td data-l="締切">${e(x.deadlineNote||fmt(x.deadline))}${c==="today"?" 今日":c==="tomorrow"?" 明日":""}</td><td data-l="商品">${e(x.product)}</td><td data-l="店名">${e(x.shop)}</td><td data-l="応募条件">${e(x.conditions)}</td><td data-l="応募リンク"><a href="${e(x.url)}" target="_blank" rel="noopener">開く</a></td><td data-l="公式確認">${x.verified?'<span class="ok">確認済み</span>':'<span class="ng">未確認</span>'}</td><td data-l="NEW">${x.new?'<span class="new">NEW</span>':""}</td></tr>`}).join("")||'<tr><td colspan="7">受付中の抽選はありません</td></tr>';
+document.querySelector("#up tbody").innerHTML=(j.upcoming||[]).map(x=>`<tr><td>${e(x.start)}</td><td>${e(x.shop)}</td><td>${e(x.product)}</td><td>${x.verified?"確認済み":"未確認"}</td></tr>`).join("")||'<tr><td colspan="4">なし</td></tr>';
+}).catch(()=>document.getElementById("upd").textContent="データを読み込めませんでした");
+</script></body></html>
