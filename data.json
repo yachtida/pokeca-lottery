@@ -1,15 +1,6 @@
 {
- "updated": "2026-10-10T20:43:21+09:00",
+ "updated": "2026-10-11T08:15:00+09:00",
  "items": [
-  {
-   "deadline": "2026-10-10T20:00:00+09:00",
-   "product": "カードセット9種（10,800円＋送料）",
-   "shop": "Bee本舗",
-   "conditions": "通販会員",
-   "url": "https://docs.google.com/forms/d/e/1FAIpQLScTG5OQWrK2kz-l-dvDnN0uSkM1TWSck69blrZLRMcemWAoOg/viewform",
-   "verified": true,
-   "new": false
-  },
   {
    "deadline": "2026-10-11T21:00:00+09:00",
    "product": "カードセット9種セット",
@@ -47,6 +38,15 @@
    "new": false
   },
   {
+   "deadline": "2026-10-12T21:30:00+09:00",
+   "product": "30th CELEBRATION／30th プレミアムデッキセット エーフィ・ブラッキー",
+   "shop": "ヤマシロヤ オンラインショップ（通販・宅配）",
+   "conditions": "当選発表10/16。条件は応募ページで確認",
+   "url": "https://x.com/toy_yamashiroya/status/2108844997072351387",
+   "verified": true,
+   "new": true
+  },
+  {
    "deadline": "2026-10-12T23:59:00+09:00",
    "product": "カードセット9種（各1,200円）",
    "shop": "ポケモンセンター実店舗（東京対象店あり）",
@@ -54,6 +54,15 @@
    "url": "https://miniapp.line.me/2010303568-gOTl69zY/events/c42d56f0-64da-4d3a-869c-cb0ad6af16dc",
    "verified": true,
    "new": false
+  },
+  {
+   "deadline": "2026-10-12T23:59:00+09:00",
+   "product": "30th CELEBRATION カードセット（9種セット）",
+   "shop": "フルコンプ（八王子本店ほか、店頭受取）",
+   "conditions": "購入時マイナンバーカード必要。東京の対象店は八王子本店（公式Xで確認）",
+   "url": "https://x.com/fc_hachioji/status/2108793528759529739",
+   "verified": true,
+   "new": true
   },
   {
    "deadline": "2026-10-13T12:00:00+09:00",
@@ -82,6 +91,24 @@
    "url": "https://aeonretail.com/Page/k-entry_01.aspx",
    "verified": true,
    "new": false
+  },
+  {
+   "deadline": "2026-10-14T23:59:00+09:00",
+   "product": "30th CELEBRATION カードセット9種",
+   "shop": "福福トレカ（通販・発送）",
+   "conditions": "結果10/15頃、購入10/16〜20",
+   "url": "https://x.com/omusubicororiin/status/2109042551634464981",
+   "verified": false,
+   "new": true
+  },
+  {
+   "deadline": "2026-10-31T23:59:00+09:00",
+   "product": "拡張パック30th CELEBRATION 1BOX（7,200円）",
+   "shop": "Luruna Card（通販・全国配送）",
+   "conditions": "@luruna_cardフォロー＋いいね＆リポスト。当選者にDM",
+   "url": "https://x.com/luruna_card/status/2106286816974500152",
+   "verified": true,
+   "new": true
   },
   {
    "deadline": null,
