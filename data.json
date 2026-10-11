@@ -1,42 +1,6 @@
 {
- "updated": "2026-10-11T08:15:00+09:00",
+ "updated": "2026-10-12T08:20:00+09:00",
  "items": [
-  {
-   "deadline": "2026-10-11T21:00:00+09:00",
-   "product": "カードセット9種セット",
-   "shop": "ホビーゾーン",
-   "conditions": "店頭のQRコードからのみ応募。受取場所未確認",
-   "url": "https://x.com/gamegetnavi/status/2108392230474191087",
-   "verified": false,
-   "new": false
-  },
-  {
-   "deadline": "2026-10-11T23:00:00+09:00",
-   "product": "カードセット9種",
-   "shop": "ふるいち",
-   "conditions": "アプリ一般会員以上。受取場所未確認",
-   "url": "https://www.furu1.net/news/news_information/pk20261016",
-   "verified": true,
-   "new": false
-  },
-  {
-   "deadline": "2026-10-11T23:59:00+09:00",
-   "product": "メガブレイブ／メガシンフォニア再販（各5,400円、1〜2BOX）",
-   "shop": "ポケモンカードラウンジ（渋谷TSUTAYA 5F）",
-   "conditions": "受取10/26〜30店頭、顔写真付き本人確認書類",
-   "url": "https://cloud-pass.jp/pr/0c5631cdf5e7fe4cb93de915cbb110c59536fc7881b99ed0e2f5225d190817b5",
-   "verified": true,
-   "new": false
-  },
-  {
-   "deadline": "2026-10-11T23:59:00+09:00",
-   "product": "カードセット",
-   "shop": "ザ・ビッグエクストラ",
-   "conditions": "iAEONアプリ。締切10/11説と10/25開始説で情報が食い違い。受取場所未確認",
-   "url": "https://x.com/pokecayoyaku/status/2108354591113019693",
-   "verified": false,
-   "new": false
-  },
   {
    "deadline": "2026-10-12T21:30:00+09:00",
    "product": "30th CELEBRATION／30th プレミアムデッキセット エーフィ・ブラッキー",
@@ -44,7 +8,7 @@
    "conditions": "当選発表10/16。条件は応募ページで確認",
    "url": "https://x.com/toy_yamashiroya/status/2108844997072351387",
    "verified": true,
-   "new": true
+   "new": false
   },
   {
    "deadline": "2026-10-12T23:59:00+09:00",
@@ -58,17 +22,35 @@
   {
    "deadline": "2026-10-12T23:59:00+09:00",
    "product": "30th CELEBRATION カードセット（9種セット）",
-   "shop": "フルコンプ（八王子本店ほか、店頭受取）",
-   "conditions": "購入時マイナンバーカード必要。東京の対象店は八王子本店（公式Xで確認）",
+   "shop": "フルコンプ（八王子本店・立川南口・町田・吉祥寺・新宿南口ほか、店頭受取）",
+   "conditions": "購入時マイナンバーカード必要。東京の対象店：八王子本店・立川南口・町田・吉祥寺・新宿南口ほか",
    "url": "https://x.com/fc_hachioji/status/2108793528759529739",
    "verified": true,
+   "new": false
+  },
+  {
+   "deadline": "2026-10-12T23:59:00+09:00",
+   "product": "30th CELEBRATION BOX",
+   "shop": "晴れる屋2（オンライン）",
+   "conditions": "Webフォーム応募、会員登録。受取方法未確認",
+   "url": "https://pokeca-navi.jp/lotteries/",
+   "verified": false,
+   "new": true
+  },
+  {
+   "deadline": "2026-10-12T23:59:00+09:00",
+   "product": "30th CELEBRATION BOX",
+   "shop": "カードラボ AKIHABARAゲーマーズB1店（東京・店頭受取）",
+   "conditions": "条件は応募ページで確認",
+   "url": "https://pokeca-navi.jp/lotteries/",
+   "verified": false,
    "new": true
   },
   {
    "deadline": "2026-10-13T12:00:00+09:00",
    "product": "カードセット全9種",
    "shop": "ジョーシン",
-   "conditions": "シルバー会員以上。アプリのマイページ「店舗限定キャンペーンエントリー」から。受取場所未確認",
+   "conditions": "シルバー会員以上。アプリのマイページ「店舗限定キャンペーンエントリー」から。受取場所未確認。締切は12:00説と20:00説あり、早い方で表示",
    "url": "https://pokeca.jp/lottery/",
    "verified": true,
    "new": false
@@ -99,7 +81,7 @@
    "conditions": "結果10/15頃、購入10/16〜20",
    "url": "https://x.com/omusubicororiin/status/2109042551634464981",
    "verified": false,
-   "new": true
+   "new": false
   },
   {
    "deadline": "2026-10-31T23:59:00+09:00",
@@ -108,7 +90,7 @@
    "conditions": "@luruna_cardフォロー＋いいね＆リポスト。当選者にDM",
    "url": "https://x.com/luruna_card/status/2106286816974500152",
    "verified": true,
-   "new": true
+   "new": false
   },
   {
    "deadline": null,
