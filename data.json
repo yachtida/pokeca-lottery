@@ -1,24 +1,23 @@
 {
- "updated": "2026-10-13T08:20:00+09:00",
+ "updated": "2026-10-14T08:25:00+09:00",
  "items": [
   {
-   "deadline": "2026-10-13T20:00:00+09:00",
-   "deadlineNote": "入荷Nowは20:00。西東京保谷店の告知は日付のみ（店頭応募・時刻は店舗により異なる）",
-   "product": "30th CELEBRATION カードセット全9種",
-   "shop": "ジョーシン（東京：西東京保谷店など）",
-   "conditions": "シルバースマイルランク以上。西東京保谷店は店頭応募のみ（アプリエントリーなしと告知）。当選発表10/14 12:00頃、購入10/16〜22",
-   "url": "https://store.joshin.co.jp/detail/1851/recommend/1955841/",
+   "deadline": "2026-10-14T16:59:00+09:00",
+   "product": "30th CELEBRATION カードセット（全9種1セット）",
+   "shop": "ホビーオフ東久留米店（東京・店頭受取）",
+   "conditions": "店頭で抽選予約受付。結果10/15にXと店頭で発表",
+   "url": "https://x.com/hbhigashikurume/status/2109559824254226774",
    "verified": true,
-   "new": false
+   "new": true
   },
   {
-   "deadline": "2026-10-13T23:59:00+09:00",
-   "product": "30th CELEBRATION カードセット9種",
-   "shop": "DMMマイカ（通販）",
-   "conditions": "期間中の購入額に応じた口数。当選発表10/16。受取は通販",
-   "url": "https://myca.dmm.com/campaign/ndj8-ki9-t7u",
-   "verified": false,
-   "new": false
+   "deadline": "2026-10-14T22:00:00+09:00",
+   "product": "30th CELEBRATION カードセット（9種1セット）",
+   "shop": "ピットイン（東京・江戸川区西葛西・店頭受取）",
+   "conditions": "@ToyPitinフォロー＆告知ポストのリポスト。当選DM、購入10/16〜17",
+   "url": "https://x.com/ToyPitin/status/2106767856599990674",
+   "verified": true,
+   "new": true
   },
   {
    "deadline": "2026-10-14T23:59:00+09:00",
@@ -36,7 +35,7 @@
    "conditions": "LivePocket応募。顔写真付き身分証必須。当選発表10/20 18:00頃、購入10/23〜25",
    "url": "https://livepocket.jp/e/b8nvf",
    "verified": true,
-   "new": true
+   "new": false
   },
   {
    "deadline": "2026-10-14T23:59:00+09:00",
@@ -45,7 +44,7 @@
    "conditions": "店舗Xのフォロー＆リポスト。当選DM 10/15〜17、購入10/18〜25。箱なしパック渡し",
    "url": "https://www.c-labo.jp/blog/619609/",
    "verified": true,
-   "new": true
+   "new": false
   },
   {
    "deadline": "2026-10-14T23:59:00+09:00",
@@ -54,7 +53,7 @@
    "conditions": "店舗Xのフォロー＆リポスト（未確認）。購入期間の説は10/19〜26",
    "url": "https://kujibell.com/lotteries/a6fb2096-7e8b-4cbe-80fd-cbeeba556dfa",
    "verified": false,
-   "new": true
+   "new": false
   },
   {
    "deadline": "2026-10-14T23:59:00+09:00",
@@ -66,12 +65,117 @@
    "new": false
   },
   {
+   "deadline": "2026-10-14T23:59:00+09:00",
+   "product": "拡張パック30th CELEBRATION 1BOX（7,200円・再販分）",
+   "shop": "TierOne渋谷店（東京・店頭受取）",
+   "conditions": "フォーム応募、1家族1回。当選はXのDMで10/16まで、購入10/17〜18。現金のみ、マイナンバーカード必須、シュリンクなし",
+   "url": "https://forms.gle/H8FrCcs8HN8RQSGo6",
+   "verified": true,
+   "new": true
+  },
+  {
+   "deadline": "2026-10-14T23:59:00+09:00",
+   "deadlineNote": "告知は「10/12〜10/14」で時刻の記載なし",
+   "product": "30th CELEBRATION カードセット（9種）",
+   "shop": "Japan TCG Center八王子駅前店（東京・店頭受取）",
+   "conditions": "@JTC_hachioji フォロー＆告知ポストのリポスト。マイナンバーカード必須",
+   "url": "https://x.com/JTC_hachioji/status/2109566811889156358",
+   "verified": true,
+   "new": true
+  },
+  {
+   "deadline": "2026-10-14T23:59:00+09:00",
+   "deadlineNote": "締切時刻はまとめサイト情報（未確認）",
+   "product": "30th CELEBRATION カードセット（9種）",
+   "shop": "ブックオフプラス新宿駅西口店（東京・店頭受取）",
+   "conditions": "X応募（条件は告知画像）。当選発表10/15。当日必ず購入できる人のみ",
+   "url": "https://x.com/bookoff_tcg/status/2108099828840620308",
+   "verified": false,
+   "new": true
+  },
+  {
+   "deadline": "2026-10-14T23:59:00+09:00",
+   "deadlineNote": "締切時刻はまとめサイト情報（未確認）",
+   "product": "30th CELEBRATION カードセット（御三家9種）",
+   "shop": "ブックオフ池袋サンシャイン60通り店（東京・店頭受取）",
+   "conditions": "X応募（条件は告知画像）。当選発表10/15",
+   "url": "https://x.com/SS60_ikebukuo/status/2108873813576602009",
+   "verified": false,
+   "new": true
+  },
+  {
+   "deadline": "2026-10-14T23:59:00+09:00",
+   "deadlineNote": "締切はまとめサイト情報（未確認）",
+   "product": "30th CELEBRATION カードセット（9種1セット）",
+   "shop": "カードショップクラクラ（東京・吉祥寺・店頭受取）",
+   "conditions": "店舗Xのフォロー＆リポスト",
+   "url": "https://x.com/Shopkurakura/status/2104159313874854183",
+   "verified": false,
+   "new": true
+  },
+  {
+   "deadline": "2026-10-14T23:59:00+09:00",
+   "product": "30th CELEBRATION カードセット（9種のうちどれか1個・1,200円）",
+   "shop": "WonderGoo瑞江店（店頭受取・所在地未確認）",
+   "conditions": "フォーム応募、店舗Xフォロー必須。当選DM 10/15まで、購入10/18 20:59まで。シュリンクなし、身分証必要",
+   "url": "https://docs.google.com/forms/d/1bJVgAME6VoyP8CMw1xhrOtcjH2zniy0E980FFgkZhck/viewform",
+   "verified": true,
+   "new": true
+  },
+  {
    "deadline": "2026-10-16T23:59:00+09:00",
    "product": "30th CELEBRATION BOX",
    "shop": "magi池袋店（東京・店頭受取）",
    "conditions": "@magi_ikebukuroフォロー＆対象ポストのリポスト。当選発表10/17以降（まとめサイト）",
    "url": "https://x.com/magi_ikebukuro/status/2104509456113344868",
    "verified": false,
+   "new": false
+  },
+  {
+   "deadline": "2026-10-18T23:00:00+09:00",
+   "product": "30th CELEBRATION BOX・カードセット・ストームエメラルダ",
+   "shop": "しまむらパーク（通販アプリ）",
+   "conditions": "アプリの「会員証」→「会員特典に応募する」から、応募券が必要。当選発表10/19午前、購入10/19 12:00〜10/24 23:00。前回の抽選は自宅配送のみ（今回の受取方法は未確認）",
+   "url": "https://x.com/PokeGetInfoMain/status/2109843089091416267",
+   "verified": false,
+   "new": true
+  },
+  {
+   "deadline": "2026-10-18T23:59:00+09:00",
+   "product": "30th CELEBRATION BOX・プレミアムデッキ エーフィ・ブラッキー・カードセット9種ほか",
+   "shop": "楽天ブックス（通販・配送）",
+   "conditions": "本日10/14 10:00受付開始。楽天会員・1世帯1名・1人1点、クレカ払い。当落は10/29 10:00までにメール",
+   "url": "https://books.rakuten.co.jp/rb/18595282/",
+   "verified": true,
+   "new": false
+  },
+  {
+   "deadline": "2026-10-21T23:59:00+09:00",
+   "product": "拡張パック30th CELEBRATION・ストームエメラルダ",
+   "shop": "CBトレコロ（カードボックス通販・受取場所未確認）",
+   "conditions": "詳細は抽選販売ページで確認（未確認）",
+   "url": "https://www.torecolo.jp/shop/t/t19294/",
+   "verified": false,
+   "new": true
+  },
+  {
+   "deadline": "2026-10-25T23:59:00+09:00",
+   "deadlineNote": "締切はまとめサイト情報（未確認）",
+   "product": "30th CELEBRATION カードセット（9種セット・5名）",
+   "shop": "TSUTAYA Trading Card 北千住店（東京・店頭受取）",
+   "conditions": "フォロー＆リポスト。発送なし、店頭購入のみ。当選DM、購入10/27〜31（まとめサイト）",
+   "url": "https://x.com/TSUTAYA_Card_ks/status/2104756369048089038",
+   "verified": false,
+   "new": true
+  },
+  {
+   "deadline": "2026-10-30T23:59:00+09:00",
+   "deadlineNote": "期間10/13〜10/30（時刻の記載なし）",
+   "product": "拡張パック30th CELEBRATION BOX（当選2名）",
+   "shop": "ゲームカフェ秋葉原集会所（東京・店頭受取）",
+   "conditions": "来店して利用か1,000円以上の会計で応募用紙1枚。抽選日10/30",
+   "url": "https://x.com/shukaijo/status/2109630536021086360",
+   "verified": true,
    "new": true
   },
   {
@@ -106,11 +210,11 @@
  ],
  "upcoming": [
   {
-   "start": "10/14(水) 10:00",
-   "shop": "楽天ブックス（通販）",
-   "product": "30th CELEBRATION BOX・プレミアムデッキ・カードセット9種ほか（〜10/18 23:59）",
-   "url": "https://books.rakuten.co.jp/rb/18595282/",
-   "verified": true
+   "start": "10/16(金)",
+   "shop": "イトーヨーカドー（一部店舗・店頭QR応募／東京の対象店舗は未確認）",
+   "product": "30th CELEBRATION（再販分・カードセットの情報もあり）〜10/18。当落はLivePocket、購入11/6〜8",
+   "url": "https://x.com/PokeGetInfoMain/status/2109950214476050711",
+   "verified": false
   }
  ]
 }
