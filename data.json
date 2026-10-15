@@ -1,25 +1,6 @@
 {
- "updated": "2026-10-15T08:25:00+09:00",
+ "updated": "2026-10-16T08:20:00+09:00",
  "items": [
-  {
-   "deadline": "2026-10-15T13:00:00+09:00",
-   "product": "30th CELEBRATION プレミアムデッキセット エーフィ・ブラッキー（6,200円）",
-   "shop": "カードコレクト秋葉原本店（東京・店頭受取）",
-   "conditions": "@cardcollect_ フォロー＆対象ポストのリポスト＆いいね（まとめサイト情報）。公式応募ポストは未確認",
-   "url": "https://kujibell.com/lotteries/24ea5c06-0d7b-4143-976b-ad4eb12ad968",
-   "verified": false,
-   "new": true
-  },
-  {
-   "deadline": "2026-10-15T23:59:00+09:00",
-   "product": "30th CELEBRATION BOX（7,200円・当選1名）",
-   "shop": "magi（通販・発送）",
-   "conditions": "@magi_kyoto_st @magi_tachikawa @magi_ebina の3アカウントをフォロー＆各キャンペーン投稿をリポスト、magiアプリ会員登録。当選はDM、商品は発送",
-   "url": "https://magi.camp/news/1236/web",
-   "sourceUrl": "https://x.com/magi_tachikawa/status/2107365238584832450",
-   "verified": true,
-   "new": true
-  },
   {
    "deadline": "2026-10-16T23:59:00+09:00",
    "product": "拡張パック ストームエメラルダ BOX（6,000円・再販分）",
@@ -28,7 +9,7 @@
    "url": "https://dorasuta.membercard.jp/lottery",
    "sourceUrl": "https://x.com/pokecamatomeru/status/2110355546851463364",
    "verified": true,
-   "new": true
+   "new": false
   },
   {
    "deadline": "2026-10-16T23:59:00+09:00",
@@ -52,10 +33,10 @@
    "deadline": "2026-10-18T23:59:00+09:00",
    "product": "30th CELEBRATION プレミアムデッキセット エーフィ・ブラッキー",
    "shop": "ブックオフプラス新宿駅西口店（東京・店頭受取）",
-   "conditions": "@bookoff_tcgフォロー＆対象ポストのリポスト。前回当選者は対象外。当日必ず購入できる人のみ。当選発表10/19、購入10/20（まとめサイト）",
+   "conditions": "@bookoff_tcgフォロー＆対象ポストのリポスト。前回当選者は対象外。9/1〜30の同店ポイント付与履歴が必要との情報あり（まとめアカウント）。当選発表10/19、購入10/20のみ・発送なし",
    "url": "https://x.com/bookoff_tcg/status/2106964241328845137",
    "verified": true,
-   "new": true
+   "new": false
   },
   {
    "deadline": "2026-10-18T23:59:00+09:00",
@@ -67,6 +48,15 @@
    "new": false
   },
   {
+   "deadline": "2026-10-18T23:59:00+09:00",
+   "product": "拡張パック30th CELEBRATION・30th CELEBRATION カードセット（再販分）",
+   "shop": "イトーヨーカドー／アリオ一部店舗（店頭受取・東京の対象店舗は未確認）",
+   "conditions": "対象店舗の店頭QRコードからLivePocketで応募。当落はLivePocketで通知（店頭発表なし）、購入11/6〜11/8。公式告知は未確認",
+   "url": "https://x.com/PokeGetInfoMain/status/2110845671737569432",
+   "verified": false,
+   "new": true
+  },
+  {
    "deadline": "2026-10-19T23:59:00+09:00",
    "product": "30th CELEBRATION BOX・プレミアムデッキ エーフィ・ブラッキー・ストームエメラルダ",
    "shop": "晴れる屋2秋葉原タワー店（東京・店頭受取）",
@@ -74,15 +64,25 @@
    "url": "https://livepocket.jp/e/v7i-m",
    "sourceUrl": "https://x.com/penchanTCG/status/2110371889302704608",
    "verified": true,
-   "new": true
+   "new": false
   },
   {
    "deadline": "2026-10-20T23:59:00+09:00",
-   "product": "30th CELEBRATION BOX・プレミアムデッキ エーフィ・ブラッキー・ストームエメラルダほか",
+   "product": "30th CELEBRATION BOX・プレミアムデッキ エーフィ・ブラッキー・ストームエメラルダ・メガブレイブ・メガシンフォニア",
    "shop": "トレカプラザ55通販店（通販・配送）",
    "conditions": "通販会員（顧客ID）必須のGoogleフォーム。回答後の商品追加・変更不可。当選メール10/21〜23、購入期限10/26",
    "url": "https://docs.google.com/forms/d/e/1FAIpQLSePKfIfAzVnfBIaMb9zqMCJLsbD7qxnViMgAbAYzy-6dBzjAA/viewform",
    "sourceUrl": "https://x.com/pokecamatomeru/status/2110288970953470368",
+   "verified": true,
+   "new": false
+  },
+  {
+   "deadline": "2026-10-20T23:59:00+09:00",
+   "product": "30th CELEBRATION BOX・プレミアムデッキ エーフィ・ブラッキー・ストームエメラルダ",
+   "shop": "カーデリア池袋店（東京・店頭受取）",
+   "conditions": "カーデリアECサイト会員限定のGoogleフォーム。1人1回、各商品1点まで（最大3商品）。当選通知10/21、購入・受取10/22〜28（池袋店店頭のみ）",
+   "url": "https://forms.gle/i9B96xqSvVWrBMeH8",
+   "sourceUrl": "https://x.com/carderia_ikb/status/2110294545233830001",
    "verified": true,
    "new": true
   },
@@ -94,6 +94,16 @@
    "url": "https://www.torecolo.jp/shop/t/t19294/",
    "verified": false,
    "new": false
+  },
+  {
+   "deadline": "2026-10-21T23:59:00+09:00",
+   "product": "スターターセット テラスタイプ ステラ ニンフィアex（1,800円＋送料）",
+   "shop": "ガンギHOBBYSHOP（通販・配送）",
+   "conditions": "ガンギHOBBYSHOP会員＋@MS_GANGIフォロー＆対象ポストのリポスト。1人1BOX。結果は当選者にのみメール",
+   "url": "https://www.gangi.co.jp/blog/drawsale-707",
+   "sourceUrl": "https://x.com/pokecayoyaku/status/2110632205001384180",
+   "verified": true,
+   "new": true
   },
   {
    "deadline": "2026-10-25T23:59:00+09:00",
@@ -145,13 +155,5 @@
    "new": false
   }
  ],
- "upcoming": [
-  {
-   "start": "10/16(金)",
-   "shop": "イトーヨーカドー（一部店舗・店頭QR応募／東京の対象店舗は未確認）",
-   "product": "30th CELEBRATION（再販分）〜10/18。当落はLivePocket、購入11/6〜8の情報あり（未確認）",
-   "url": "https://x.com/PokeGetInfoMain/status/2109950214476050711",
-   "verified": false
-  }
- ]
+ "upcoming": []
 }
