@@ -1,24 +1,35 @@
 {
- "updated": "2026-10-16T08:20:00+09:00",
+ "updated": "2026-10-17T08:25:00+09:00",
  "items": [
   {
-   "deadline": "2026-10-16T23:59:00+09:00",
-   "product": "拡張パック ストームエメラルダ BOX（6,000円・再販分）",
-   "shop": "ドラゴンスター通販（通販・配送）",
-   "conditions": "メンバーサービスから応募。当選発表10/19、購入10/19〜25（郵送・送料別）",
-   "url": "https://dorasuta.membercard.jp/lottery",
-   "sourceUrl": "https://x.com/pokecamatomeru/status/2110355546851463364",
+   "deadline": "2026-10-17T20:00:00+09:00",
+   "product": "拡張パック ストームエメラルダ（1BOX）",
+   "shop": "FEWMANY 新宿マルイアネックス店（東京・店頭受取）",
+   "conditions": "受付は今日10/17 11:00〜20:00（LivePocket）。1人1BOX・9歳以上。受取時は当選QRとマイナンバーカード（顔写真付き）のみで本人確認。当選発表10/19予定、受取10/24 10:30〜20:00（店頭払い）",
+   "url": "https://livepocket.jp/e/1maxl",
+   "sourceUrl": "https://x.com/tenks_01/status/2111228044191170884",
    "verified": true,
-   "new": false
+   "new": true
   },
   {
-   "deadline": "2026-10-16T23:59:00+09:00",
-   "product": "30th CELEBRATION BOX",
-   "shop": "magi池袋店（東京・店頭受取）",
-   "conditions": "@magi_ikebukuroフォロー＆対象ポストのリポスト。当選はDM、お一人様1点・店頭のみ",
-   "url": "https://x.com/magi_ikebukuro/status/2104509456113344868",
+   "deadline": "2026-10-17T20:00:00+09:00",
+   "product": "スターターセットex イーブイex",
+   "shop": "FEWMANY 新宿マルイアネックス店（東京・店頭受取）",
+   "conditions": "受付は今日10/17 11:00〜20:00（LivePocket、商品ごとに別申込）。1人各1点・9歳以上。マイナンバーカード（顔写真付き）で本人確認。当選発表10/19予定、受取10/24 10:30〜20:00",
+   "url": "https://livepocket.jp/e/vt2ev",
+   "sourceUrl": "https://x.com/tenks_01/status/2111228044191170884",
    "verified": true,
-   "new": false
+   "new": true
+  },
+  {
+   "deadline": "2026-10-18T18:00:00+09:00",
+   "product": "拡張パック30th CELEBRATION（1BOX・1パック360円）",
+   "shop": "ビックカメラ立川店（東京・店頭受取）",
+   "conditions": "10/17・18の10:00〜18:00に店頭レジで受付、会員限定・1人1BOX（まとめアカウント情報）。当選発表10/23、販売10/24〜25 13:00〜18:00。公式告知は未確認",
+   "url": "https://x.com/pokecayoyaku/status/2110967382676295793",
+   "sourceUrl": "https://x.com/lifeprep_list/status/2111001637049516355",
+   "verified": false,
+   "new": true
   },
   {
    "deadline": "2026-10-18T23:00:00+09:00",
@@ -28,6 +39,26 @@
    "url": "https://x.com/pokecamatomeru/status/2109844413509956018",
    "verified": false,
    "new": false
+  },
+  {
+   "deadline": "2026-10-18T21:00:00+09:00",
+   "product": "拡張パック30th CELEBRATION 1BOX（7,200円）",
+   "shop": "ふるいちトップブックス八王子みなみ野店（東京・店頭受取）",
+   "conditions": "LivePocketで1人1回。シュリンクを剥がして渡し。購入時に当選二次元コードと顔写真付き本人確認書類（現住所記載）が必要。当選発表10/20〜21、販売10/24〜26",
+   "url": "https://livepocket.jp/e/kvys2",
+   "sourceUrl": "https://x.com/AkiPokemonLife/status/2111229341954912747",
+   "verified": true,
+   "new": true
+  },
+  {
+   "deadline": "2026-10-18T22:00:00+09:00",
+   "product": "拡張パック30th CELEBRATION 1BOX（7,200円）",
+   "shop": "古本市場新小岩店（東京・店頭受取）",
+   "conditions": "LivePocketで1人1回。シュリンクを剥がして渡し。当選二次元コードと顔写真付き本人確認書類（現住所記載）が必要。当選発表10/20、販売10/23〜25。同店でストームエメラルダの抽選（10/18 22:00締切）もあるとの情報あり（未確認）",
+   "url": "https://livepocket.jp/e/opyur-hugr",
+   "sourceUrl": "https://x.com/AkiPokemonLife/status/2111229341954912747",
+   "verified": true,
+   "new": true
   },
   {
    "deadline": "2026-10-18T23:59:00+09:00",
@@ -49,11 +80,32 @@
   },
   {
    "deadline": "2026-10-18T23:59:00+09:00",
-   "product": "拡張パック30th CELEBRATION・30th CELEBRATION カードセット（再販分）",
-   "shop": "イトーヨーカドー／アリオ一部店舗（店頭受取・東京の対象店舗は未確認）",
-   "conditions": "対象店舗の店頭QRコードからLivePocketで応募。当落はLivePocketで通知（店頭発表なし）、購入11/6〜11/8。公式告知は未確認",
-   "url": "https://x.com/PokeGetInfoMain/status/2110845671737569432",
-   "verified": false,
+   "product": "拡張パック30th CELEBRATION（再販分・1BOX分20パックまで）",
+   "shop": "イトーヨーカドー（東京の対象店舗: アリオ亀有・アリオ北砂・アリオ西新井、店頭受取）",
+   "conditions": "LivePocketで1人1回。当落はLivePocket登録メールに通知、購入11/6〜11/8 11:00〜19:00。顔写真付き身分証と当選QRが必要",
+   "url": "https://livepocket.jp/e/39gwbz6j-d",
+   "sourceUrl": "https://x.com/PokeGetInfoMain/status/2110845671737569432",
+   "verified": true,
+   "new": false
+  },
+  {
+   "deadline": "2026-10-18T23:59:00+09:00",
+   "product": "30th CELEBRATION カードセット 9種セット（10,800円）",
+   "shop": "ポケモンカードラウンジ（SHIBUYA TSUTAYA、東京・店頭受取）",
+   "conditions": "CLOUD PASSで1人1回・9種セット1点まで。受取日を選んで応募。受取11/1〜11/4 10:00〜22:30、顔写真付き本人確認書類が必要。当選発表10/28 18時以降順次",
+   "url": "https://cloud-pass.jp/pr/df422ed0160e515e2e1a6571b978bd185625ca61e0fec8669e213512422a0661",
+   "sourceUrl": "https://x.com/pokecayoyaku/status/2110903657072054762",
+   "verified": true,
+   "new": true
+  },
+  {
+   "deadline": "2026-10-19T16:59:00+09:00",
+   "product": "スペシャルデッキセットMEGA メガオーダイル・メガカイリュー・メガゲンガー（11/13発売）",
+   "shop": "ポケモンセンターオンライン（通販・配送）",
+   "conditions": "プレイヤーズクラブの本人認証済み枠と未認証枠に分かれている。当選発表10/23 15:00以降、購入10/23 15:00〜10/26 16:59（締切・日程はまとめアカウント情報、受付開始はポケモン公式Xで確認）",
+   "url": "https://www.pokemoncenter-online.com/lottery/apply.html",
+   "sourceUrl": "https://x.com/Pokemon_cojp/status/2110996668879376518",
+   "verified": true,
    "new": true
   },
   {
@@ -84,7 +136,7 @@
    "url": "https://forms.gle/i9B96xqSvVWrBMeH8",
    "sourceUrl": "https://x.com/carderia_ikb/status/2110294545233830001",
    "verified": true,
-   "new": true
+   "new": false
   },
   {
    "deadline": "2026-10-21T23:59:00+09:00",
@@ -103,7 +155,7 @@
    "url": "https://www.gangi.co.jp/blog/drawsale-707",
    "sourceUrl": "https://x.com/pokecayoyaku/status/2110632205001384180",
    "verified": true,
-   "new": true
+   "new": false
   },
   {
    "deadline": "2026-10-25T23:59:00+09:00",
@@ -155,5 +207,20 @@
    "new": false
   }
  ],
- "upcoming": []
+ "upcoming": [
+  {
+   "start": "10/19(月) 10:00",
+   "shop": "キデイランド吉祥寺店（東京・店頭受取）",
+   "product": "拡張パック30th CELEBRATION（再販・1パック360円×20）〜10/21 23:59、LivePocket。当選発表10/23〜28、販売10/31〜11/1、シュリンクなし",
+   "url": "https://livepocket.jp/e/sx0cg",
+   "verified": true
+  },
+  {
+   "start": "10/19(月) 10:00",
+   "shop": "キデイランド吉祥寺店（東京・店頭受取）",
+   "product": "拡張パック ストームエメラルダ（再販・1パック200円×30）〜10/21 23:59、LivePocket。当選発表10/22〜28、販売10/31〜11/1、シュリンクなし",
+   "url": "https://livepocket.jp/e/rl64g",
+   "verified": true
+  }
+ ]
 }
