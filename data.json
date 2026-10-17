@@ -1,26 +1,6 @@
 {
- "updated": "2026-10-17T08:25:00+09:00",
+ "updated": "2026-10-18T08:20:00+09:00",
  "items": [
-  {
-   "deadline": "2026-10-17T20:00:00+09:00",
-   "product": "拡張パック ストームエメラルダ（1BOX）",
-   "shop": "FEWMANY 新宿マルイアネックス店（東京・店頭受取）",
-   "conditions": "受付は今日10/17 11:00〜20:00（LivePocket）。1人1BOX・9歳以上。受取時は当選QRとマイナンバーカード（顔写真付き）のみで本人確認。当選発表10/19予定、受取10/24 10:30〜20:00（店頭払い）",
-   "url": "https://livepocket.jp/e/1maxl",
-   "sourceUrl": "https://x.com/tenks_01/status/2111228044191170884",
-   "verified": true,
-   "new": true
-  },
-  {
-   "deadline": "2026-10-17T20:00:00+09:00",
-   "product": "スターターセットex イーブイex",
-   "shop": "FEWMANY 新宿マルイアネックス店（東京・店頭受取）",
-   "conditions": "受付は今日10/17 11:00〜20:00（LivePocket、商品ごとに別申込）。1人各1点・9歳以上。マイナンバーカード（顔写真付き）で本人確認。当選発表10/19予定、受取10/24 10:30〜20:00",
-   "url": "https://livepocket.jp/e/vt2ev",
-   "sourceUrl": "https://x.com/tenks_01/status/2111228044191170884",
-   "verified": true,
-   "new": true
-  },
   {
    "deadline": "2026-10-18T18:00:00+09:00",
    "product": "拡張パック30th CELEBRATION（1BOX・1パック360円）",
@@ -28,15 +8,6 @@
    "conditions": "10/17・18の10:00〜18:00に店頭レジで受付、会員限定・1人1BOX（まとめアカウント情報）。当選発表10/23、販売10/24〜25 13:00〜18:00。公式告知は未確認",
    "url": "https://x.com/pokecayoyaku/status/2110967382676295793",
    "sourceUrl": "https://x.com/lifeprep_list/status/2111001637049516355",
-   "verified": false,
-   "new": true
-  },
-  {
-   "deadline": "2026-10-18T23:00:00+09:00",
-   "product": "30th CELEBRATION BOX・カードセット・ストームエメラルダ",
-   "shop": "しまむらパーク（通販アプリ）",
-   "conditions": "アプリの「会員証」→「会員特典に応募する」から、応募券が必要。当選発表10/19午前、購入10/19 12:00〜10/24 23:00。バースデイ取扱の情報あり",
-   "url": "https://x.com/pokecamatomeru/status/2109844413509956018",
    "verified": false,
    "new": false
   },
@@ -48,6 +19,16 @@
    "url": "https://livepocket.jp/e/kvys2",
    "sourceUrl": "https://x.com/AkiPokemonLife/status/2111229341954912747",
    "verified": true,
+   "new": false
+  },
+  {
+   "deadline": "2026-10-18T21:00:00+09:00",
+   "product": "拡張パック ストームエメラルダ 1BOX",
+   "shop": "ふるいちトップブックス八王子みなみ野店（東京・店頭受取）",
+   "conditions": "LivePocketで1人1回。シュリンクを外して販売。指定の顔写真付き身分証が必要。当選発表10/20〜21、販売10/24〜26（同店の30th BOX抽選とは別申込）",
+   "url": "https://livepocket.jp/e/1hvyn",
+   "sourceUrl": "https://x.com/pokecapresident/status/2111585147762131215",
+   "verified": true,
    "new": true
   },
   {
@@ -58,7 +39,16 @@
    "url": "https://livepocket.jp/e/opyur-hugr",
    "sourceUrl": "https://x.com/AkiPokemonLife/status/2111229341954912747",
    "verified": true,
-   "new": true
+   "new": false
+  },
+  {
+   "deadline": "2026-10-18T23:00:00+09:00",
+   "product": "30th CELEBRATION BOX・カードセット・ストームエメラルダ",
+   "shop": "しまむらパーク（通販アプリ）",
+   "conditions": "アプリの「会員証」→「会員特典に応募する」から、応募券が必要。当選発表10/19午前、購入10/19 12:00〜10/24 23:00。バースデイ取扱の情報あり",
+   "url": "https://x.com/pokecamatomeru/status/2109844413509956018",
+   "verified": false,
+   "new": false
   },
   {
    "deadline": "2026-10-18T23:59:00+09:00",
@@ -71,9 +61,9 @@
   },
   {
    "deadline": "2026-10-18T23:59:00+09:00",
-   "product": "30th CELEBRATION BOX・プレミアムデッキ エーフィ・ブラッキー・カードセット9種ほか",
+   "product": "30th CELEBRATION BOX・プレミアムデッキ エーフィ・ブラッキー・カードセット9種・ストームエメラルダ・アビスアイ・メガブレイブ・メガシンフォニア・MEGAドリームex・スタートデッキ100 バトルコレクション5個セット",
    "shop": "楽天ブックス（通販・配送）",
-   "conditions": "楽天会員・1世帯1名・1人1点、クレカ払い。当落は販売開始日までにメール。当選者購入10/29〜11/3",
+   "conditions": "住所登録済み楽天会員・1世帯1名・1人1点、クレカ払い。同商品を楽天ブックスで購入済みの人は対象外。当落は販売開始日までにメール。30th BOXの当選者購入10/29〜11/3。各商品ページは商品ごとに別（例: プレミアムデッキ https://books.rakuten.co.jp/rb/18595283/ ／カードセット9種 https://books.rakuten.co.jp/rb/18595457/ ／ストームエメラルダ https://books.rakuten.co.jp/rb/18537078/）",
    "url": "https://books.rakuten.co.jp/rb/18595282/",
    "verified": true,
    "new": false
@@ -96,6 +86,16 @@
    "url": "https://cloud-pass.jp/pr/df422ed0160e515e2e1a6571b978bd185625ca61e0fec8669e213512422a0661",
    "sourceUrl": "https://x.com/pokecayoyaku/status/2110903657072054762",
    "verified": true,
+   "new": false
+  },
+  {
+   "deadline": "2026-10-18T23:59:00+09:00",
+   "product": "拡張パック30th CELEBRATION（再販分）1BOX（7,200円）",
+   "shop": "竜星のPAO／PAO（東京の対象店舗: 池袋・秋葉原ロケット無線・中野・八王子・立川・町田・多摩境・PAO青梅・PAO堀之内、店頭受取）",
+   "conditions": "LivePocketで1人1回・対象店舗から1店舗のみ。応募上限に達すると締切前でも終了。当選発表10/22以降、購入10/29〜10/31、顔写真付きなど指定の身分証で本人確認、発送なし",
+   "url": "https://livepocket.jp/e/0opt9",
+   "sourceUrl": "https://x.com/PokeGetInfoMain/status/2111295733358064085",
+   "verified": true,
    "new": true
   },
   {
@@ -106,13 +106,13 @@
    "url": "https://www.pokemoncenter-online.com/lottery/apply.html",
    "sourceUrl": "https://x.com/Pokemon_cojp/status/2110996668879376518",
    "verified": true,
-   "new": true
+   "new": false
   },
   {
    "deadline": "2026-10-19T23:59:00+09:00",
    "product": "30th CELEBRATION BOX・プレミアムデッキ エーフィ・ブラッキー・ストームエメラルダ",
    "shop": "晴れる屋2秋葉原タワー店（東京・店頭受取）",
-   "conditions": "LivePocket＋晴れる屋2 LINE会員。おひとり様1回・対象店舗から1店舗のみ。当選発表10/20予定、購入10/23〜25。BOX応募: https://livepocket.jp/e/v7i-m ／デッキ: https://livepocket.jp/e/p2b1t",
+   "conditions": "LivePocket＋晴れる屋2 LINE会員（会員コード）。おひとり様1回・対象店舗から1店舗のみ。当選発表10/20、購入10/23〜25。BOX応募: https://livepocket.jp/e/v7i-m ／デッキ: https://livepocket.jp/e/p2b1t ／ストームエメラルダ（6,000円）: https://livepocket.jp/e/moozm",
    "url": "https://livepocket.jp/e/v7i-m",
    "sourceUrl": "https://x.com/penchanTCG/status/2110371889302704608",
    "verified": true,
@@ -209,18 +209,28 @@
  ],
  "upcoming": [
   {
+   "start": "10/19(月) 11:00",
+   "shop": "イオンスタイルオンライン（通販・配送）",
+   "product": "スペシャルデッキセットMEGA メガオーダイル・メガカイリュー・メガゲンガー（5,500円）〜10/20 23:59。1人1点・1回まで、当選発表10/26 12:00頃、購入10/26 12:00〜10/27 23:59（まとめアカウント・まとめサイト情報、公式ページ未確認）",
+   "url": "https://x.com/pokecamatomeru/status/2111247047231975801",
+   "verified": false,
+   "new": true
+  },
+  {
    "start": "10/19(月) 10:00",
    "shop": "キデイランド吉祥寺店（東京・店頭受取）",
    "product": "拡張パック30th CELEBRATION（再販・1パック360円×20）〜10/21 23:59、LivePocket。当選発表10/23〜28、販売10/31〜11/1、シュリンクなし",
    "url": "https://livepocket.jp/e/sx0cg",
-   "verified": true
+   "verified": true,
+   "new": false
   },
   {
    "start": "10/19(月) 10:00",
    "shop": "キデイランド吉祥寺店（東京・店頭受取）",
    "product": "拡張パック ストームエメラルダ（再販・1パック200円×30）〜10/21 23:59、LivePocket。当選発表10/22〜28、販売10/31〜11/1、シュリンクなし",
    "url": "https://livepocket.jp/e/rl64g",
-   "verified": true
+   "verified": true,
+   "new": false
   }
  ]
 }
