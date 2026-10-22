@@ -1,25 +1,35 @@
 {
- "updated": "2026-10-22T08:20:00+09:00",
+ "updated": "2026-10-23T08:25:00+09:00",
  "items": [
   {
-   "deadline": "2026-10-22T23:59:00+09:00",
-   "product": "拡張パック30th CELEBRATION（再販・1BOX 7,200円、当選者は2BOXまで）",
-   "shop": "ホビーステーション（東京・店頭受取：秋葉原買取センター／秋葉原ラジオ会館店／池袋本店／町田店）",
-   "conditions": "10/20 12:00受付開始、LivePocket。対象店舗から1店舗のみ応募（複数店舗は無効）。当選発表10/30〜31予定、購入11/2〜11/8（応募店舗の店頭のみ・本人確認書類必要）",
-   "url": "https://livepocket.jp/e/4_jau",
-   "sourceUrl": "https://x.com/pokecamatomeru/status/2112378570983268856",
+   "deadline": "2026-10-23T21:00:00+09:00",
+   "product": "スペシャルデッキセットMEGA メガオーダイル・メガカイリュー・メガゲンガー（1人1個）",
+   "shop": "TSUTAYA Trading Card 府中駅前（東京・店頭受取）",
+   "conditions": "LivePocket、10/21 14:00〜10/23 21:00。1人1回。当選発表11/8までに、購入11/13〜11/15店頭のみ（シュリンク開封、本人確認書類必要、発送なし）",
+   "url": "https://livepocket.jp/e/fgvl7",
+   "sourceUrl": "https://x.com/TTC_fuchu/status/2112770858284368172",
    "verified": true,
-   "new": false
+   "new": true
   },
   {
-   "deadline": "2026-10-22T23:59:00+09:00",
-   "product": "30th CELEBRATION カードセット（キャンセル分・各1,200円、6種・各1〜2個）",
-   "shop": "カードショップホビビ通販部（通販・ゆうパック配送、送料600円）",
-   "conditions": "9/22〜10/22に一度の会計で3,000円以上の購入実績、またはLINE買取で3,000円以上の成約がある人限定。Googleフォームに名前と注文番号（pn+5桁）か買取ケースコードを入力。当選者にのみ10/23以降メール",
-   "url": "https://docs.google.com/forms/d/e/1FAIpQLSe59ulHbfZYOuDnMZYJAfkDoYb_zK7c_0AeNMpMdof9TmRgmA/viewform",
-   "sourceUrl": "https://x.com/omusubicororiin/status/2112666478696894974",
+   "deadline": "2026-10-23T22:00:00+09:00",
+   "product": "拡張パック30th CELEBRATION 1BOX（7,200円、パックのみ・外箱処分）",
+   "shop": "古本市場 竹の塚店（東京・店頭受取）",
+   "conditions": "LivePocket、1人1回。当選発表10/24〜10/27、購入10/28〜10/30（顔写真付き本人確認書類必要）",
+   "url": "https://livepocket.jp/e/684iy",
+   "sourceUrl": "https://x.com/pokecaken/status/2113242716364734740",
    "verified": true,
-   "new": false
+   "new": true
+  },
+  {
+   "deadline": "2026-10-24T21:00:00+09:00",
+   "product": "拡張パック30th CELEBRATION 1BOX（7,200円、シュリンク開封で販売）",
+   "shop": "ふるいち イオンモール日の出店（東京・店頭受取）",
+   "conditions": "LivePocket、1人1回・複数店舗応募は無効。当選発表10/25、購入10/28〜11/1（顔写真付き本人確認書類必要）",
+   "url": "https://livepocket.jp/e/q-2l1",
+   "sourceUrl": "https://x.com/AkiPokemonLife/status/2113214973342290285",
+   "verified": true,
+   "new": true
   },
   {
    "deadline": "2026-10-25T23:00:00+09:00",
@@ -42,6 +52,27 @@
    "new": false
   },
   {
+   "deadline": "2026-10-25T23:59:00+09:00",
+   "product": "スペシャルデッキセットMEGA メガオーダイル・メガカイリュー・メガゲンガー（5,500円）",
+   "shop": "PAO／竜星のPAO（東京・店頭受取：PAO青梅店／PAO堀之内店／竜星のPAO八王子店・立川店・町田店・中野店・多摩境店・池袋店・秋葉原ロケット無線店）",
+   "conditions": "10/23 11:50受付開始、LivePocket。全店舗で1店舗1応募のみ、上限に達すると早期終了。当選発表11/5以降、購入11/13〜11/15（本人確認書類必須、発送なし）",
+   "url": "https://livepocket.jp/e/3v6ni",
+   "sourceUrl": "https://x.com/pokecayoyaku/status/2112777134754390107",
+   "verified": true,
+   "new": false
+  },
+  {
+   "deadline": "2026-10-25T23:59:00+09:00",
+   "deadlineNote": "受付10/23 10:00〜10/25 23:59（まとめサイト情報）",
+   "product": "スペシャルデッキセットMEGA メガオーダイル・メガカイリュー・メガゲンガー、拡張パック ストームエメラルダ",
+   "shop": "イトーヨーカドー・アリオ 一部店舗（店頭受取・受取場所未確認：今回の東京の実施店舗は未確認）",
+   "conditions": "店頭掲示のQRコードからLivePocketで応募。当選はLivePocketで通知（店頭発表なし）、購入11/13〜11/15。公式の告知・対象店舗一覧は未確認",
+   "url": "https://x.com/PokeGetInfoMain/status/2113138370721481058",
+   "sourceUrl": "https://x.com/pokecamatomeru/status/2113138809974174193",
+   "verified": false,
+   "new": true
+  },
+  {
    "deadline": "2026-10-26T17:00:00+09:00",
    "deadlineNote": "締切はまとめアカウント情報。公式ポストは当選通知が10/26 17時以降とだけ記載",
    "product": "拡張パック30th CELEBRATION（当選24名）",
@@ -61,7 +92,7 @@
    "url": "https://myca.dmm.com/campaign/eb2jk-kiy-i5",
    "sourceUrl": "https://x.com/pokecayoyaku/status/2112741701538435544",
    "verified": false,
-   "new": true
+   "new": false
   },
   {
    "deadline": "2026-10-28T23:59:00+09:00",
@@ -73,6 +104,16 @@
    "sourceUrl": "https://x.com/Zabi_pokeka/status/2112152068429590789",
    "verified": true,
    "new": false
+  },
+  {
+   "deadline": "2026-10-29T23:59:00+09:00",
+   "deadlineNote": "10/29まで（時刻の記載なし）",
+   "product": "拡張パック ストームエメラルダ 1BOX",
+   "shop": "BOOKOFF PLUS 新宿駅西口店（東京・店頭受取）",
+   "conditions": "@bookoff__tcgをフォローし対象ポストにいいね、「#BOOKOFFPLUS新宿駅西口店抽選」を含めて引用RT。当選者に10/30 DM、購入10/31のみ",
+   "url": "https://x.com/bookoff_tcg/status/2110614272720130103",
+   "verified": true,
+   "new": true
   },
   {
    "deadline": "2026-10-30T23:59:00+09:00",
@@ -116,12 +157,12 @@
  ],
  "upcoming": [
   {
-   "start": "2026-10-23 11:50（締切10/25 23:59）",
-   "shop": "PAO／竜星のPAO（東京・店頭受取：PAO青梅店／PAO堀之内店／竜星のPAO八王子店・立川店・町田店・中野店・多摩境店・池袋店・秋葉原ロケット無線店）",
-   "product": "スペシャルデッキセットMEGA メガオーダイル・メガカイリュー・メガゲンガー（5,500円）",
-   "conditions": "LivePocket。全店舗で1店舗1応募のみ、上限に達すると早期終了。当選発表11/5以降、購入11/13〜11/15（本人確認書類必須、発送なし）",
-   "url": "https://livepocket.jp/e/3v6ni",
-   "sourceUrl": "https://x.com/pokecayoyaku/status/2112777134754390107",
+   "start": "2026-10-26 10:00（締切10/28 23:59）",
+   "shop": "キデイランド 二子玉川店（東京・店頭受取）",
+   "product": "30th CELEBRATION カードセット9種（再販・各1,200円、当選1枚で各1点・最大9点）",
+   "conditions": "LivePocket、1人1回（キデイランド別店舗への重複応募は可）。当選発表10/29〜11/4 18時ごろ、購入11/7〜11/8（身分証必要）",
+   "url": "https://livepocket.jp/e/c8d7-",
+   "sourceUrl": "https://x.com/pokecayoyaku/status/2113285664594915787",
    "verified": true,
    "new": true
   },
