@@ -1,15 +1,35 @@
 {
- "updated": "2026-10-24T08:20:00+09:00",
+ "updated": "2026-10-25T08:20:00+09:00",
  "items": [
   {
-   "deadline": "2026-10-24T21:00:00+09:00",
-   "product": "拡張パック30th CELEBRATION 1BOX（7,200円、シュリンク開封で販売）",
-   "shop": "ふるいち イオンモール日の出店（東京・店頭受取）",
-   "conditions": "LivePocket、1人1回・複数店舗応募は無効。当選発表10/25、購入10/28〜11/1（顔写真付き本人確認書類必要）",
-   "url": "https://livepocket.jp/e/q-2l1",
-   "sourceUrl": "https://x.com/AkiPokemonLife/status/2113214973342290285",
+   "deadline": "2026-10-25T18:59:00+09:00",
+   "product": "拡張パック30th CELEBRATION",
+   "shop": "magi 高田馬場店（東京・店頭受取）",
+   "conditions": "締切はまとめアカウント情報。公式の応募ページは未確認",
+   "url": "https://x.com/kujibell/status/2114130226758226423",
+   "verified": false,
+   "new": true
+  },
+  {
+   "deadline": "2026-10-25T21:00:00+09:00",
+   "product": "拡張パック ストームエメラルダ 1BOX（6,000円、シュリンク剥がし・開封で渡し）",
+   "shop": "TSUTAYA TRADING CARD 錦糸町（東京・店頭受取）",
+   "conditions": "LivePocket、1人1回・1箱まで。当選発表10/30予定、購入11/2〜11/8（店舗Xフォロー推奨、本人確認あり）",
+   "url": "https://livepocket.jp/e/uenut",
+   "sourceUrl": "https://x.com/OnchainOutlaw/status/2113783144814166150",
    "verified": true,
-   "new": false
+   "new": true
+  },
+  {
+   "deadline": "2026-10-25T22:00:00+09:00",
+   "deadlineNote": "LivePocketは10/25までと記載、22:00はまとめアカウント情報",
+   "product": "拡張パック30th CELEBRATION",
+   "shop": "古本市場 光が丘店（東京・店頭受取）",
+   "conditions": "LivePocket。当選発表10/26〜10/28、販売10/31〜11/1。アプリ会員が条件",
+   "url": "https://livepocket.jp/e/c82il",
+   "sourceUrl": "https://x.com/OnchainOutlaw/status/2113965617544036797",
+   "verified": true,
+   "new": true
   },
   {
    "deadline": "2026-10-25T23:00:00+09:00",
@@ -60,7 +80,7 @@
    "url": "https://livepocket.jp/e/jrssp",
    "sourceUrl": "https://x.com/pokecamatomeru/status/2113465832449950207",
    "verified": true,
-   "new": true
+   "new": false
   },
   {
    "deadline": "2026-10-26T16:59:00+09:00",
@@ -70,7 +90,7 @@
    "url": "https://www.pokemoncenter-online.com/lottery/landing-page.html",
    "sourceUrl": "https://x.com/Pokemon_cojp/status/2113525834677928112",
    "verified": true,
-   "new": true
+   "new": false
   },
   {
    "deadline": "2026-10-26T17:00:00+09:00",
@@ -82,6 +102,37 @@
    "sourceUrl": "https://x.com/AkiPokemonLife/status/2112535467459821688",
    "verified": true,
    "new": false
+  },
+  {
+   "deadline": "2026-10-26T21:00:00+09:00",
+   "product": "拡張パック30th CELEBRATION 1BOX（再入荷・7,200円、シュリンク剥がし・開封で渡し）",
+   "shop": "TSUTAYA TRADING CARD 錦糸町（東京・店頭受取）",
+   "conditions": "LivePocket、1人1回・1箱まで。当選発表10/30予定、購入11/2〜11/8",
+   "url": "https://livepocket.jp/e/1dpkl",
+   "sourceUrl": "https://x.com/OnchainOutlaw/status/2113965533247008906",
+   "verified": true,
+   "new": true
+  },
+  {
+   "deadline": "2026-10-26T23:59:00+09:00",
+   "deadlineNote": "締切はまとめアカウント情報（店舗ポストは画像のみ）",
+   "product": "拡張パック30th CELEBRATION 1BOX分（レジで開封しパックのみ渡し）",
+   "shop": "カードラボ AKIHABARAゲーマーズB1店（東京・店頭受取）",
+   "conditions": "@gm_b1xxxをフォロー＋対象ポストにいいね＆リポスト。結果10/27 18時頃X発表、受取10/30〜11/5",
+   "url": "https://x.com/gm_b1xxx/status/2113511345610195028",
+   "sourceUrl": "https://x.com/pokecapresident/status/2113908076130746442",
+   "verified": true,
+   "new": true
+  },
+  {
+   "deadline": "2026-10-27T21:00:00+09:00",
+   "product": "拡張パック メガブレイブ・メガシンフォニア 各1BOX（再入荷・2BOX 10,800円、シュリンク剥がし・開封で渡し）",
+   "shop": "TSUTAYA TRADING CARD 錦糸町（東京・店頭受取）",
+   "conditions": "LivePocket、10/25 10:30〜10/27 21:00、1人1セットまで。当選発表10/30予定、購入11/2〜11/8",
+   "url": "https://livepocket.jp/e/h9fk-",
+   "sourceUrl": "https://x.com/mihorin1122/status/2113985574927581523",
+   "verified": true,
+   "new": true
   },
   {
    "deadline": "2026-10-27T23:59:00+09:00",
@@ -113,7 +164,7 @@
    "url": "https://www.gangi.co.jp/blog/drawsale-710",
    "sourceUrl": "https://x.com/pokecayoyaku/status/2113542487646327164",
    "verified": false,
-   "new": true
+   "new": false
   },
   {
    "deadline": "2026-10-29T23:59:00+09:00",
@@ -145,6 +196,16 @@
    "new": false
   },
   {
+   "deadline": "2026-11-01T23:59:00+09:00",
+   "product": "拡張パック ハドウシーカー（予約権の抽選）",
+   "shop": "カードボックス池袋店（東京・店頭予約／受取）",
+   "conditions": "抽選ロトボックスで応募、10/24〜11/1 23:59。当選後に本人確認証・会員カード・当選画面を持って期限内に店頭で予約し前金を全額支払い。代理不可",
+   "url": "https://shoplottery.e-starbox.com/lottery/entry?code=GEQ9MRWzyr",
+   "sourceUrl": "https://x.com/sango_from35/status/2113960060368146471",
+   "verified": true,
+   "new": true
+  },
+  {
    "deadline": null,
    "deadlineNote": "締切なし（招待制）",
    "product": "30th CELEBRATION BOXほか",
@@ -159,16 +220,26 @@
    "deadlineNote": "期限なし（招待リクエスト）",
    "product": "30th CELEBRATION BOX",
    "shop": "Amazon.co.jp（通販・招待制）",
-   "conditions": "販売元Amazon.co.jpの招待リクエスト。選ばれたら期限内に注文。ほかにプレミアムデッキ エーフィ・ブラッキー、ストームエメラルダBOX、30thカードセットの招待リクエストも受付中との情報あり（未確認）",
+   "conditions": "販売元Amazon.co.jpの招待リクエスト。選ばれたら期限内に注文。ほかにプレミアムデッキ エーフィ・ブラッキー、ストームエメラルダBOX、30thカードセットの招待リクエストも受付中との情報あり（未確認）。MEGA拡張パック アビスアイBOXの招待リクエストも始まったとの情報あり（PR投稿、未確認）",
    "url": "https://www.amazon.co.jp/dp/B0GXCRBL5J",
    "verified": true,
    "new": false
+  },
+  {
+   "deadline": null,
+   "deadlineNote": "締切未確認（告知画像のみ）",
+   "product": "拡張パック30th CELEBRATION BOX（10月下旬再入荷分）",
+   "shop": "マックスゲーム 浜松町店（東京・店頭受取）",
+   "conditions": "店舗Xで抽選受付開始を告知。詳細・注意事項は告知画像にあり、テキストでは未確認",
+   "url": "https://x.com/maxgame8888/status/2113518067557032035",
+   "verified": false,
+   "new": true
   }
  ],
  "upcoming": [
   {
    "start": "2026-10-26 10:00（締切10/28 23:59）",
-   "shop": "キデイランド 二子玉川店（東京・店頭受取）",
+   "shop": "キデイランド 二子玉川店・吉祥寺店（東京・店頭受取）",
    "product": "30th CELEBRATION カードセット9種（再販・各1,200円、当選1枚で各1点・最大9点）",
    "conditions": "LivePocket、1人1回（キデイランド別店舗への重複応募は可）。当選発表10/29〜11/4 18時ごろ、購入11/7〜11/8（身分証必要）",
    "url": "https://livepocket.jp/e/c8d7-",
