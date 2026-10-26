@@ -1,48 +1,6 @@
 {
- "updated": "2026-10-26T08:25:00+09:00",
+ "updated": "2026-10-27T08:20:00+09:00",
  "items": [
-  {
-   "deadline": "2026-10-26T16:59:00+09:00",
-   "product": "拡張パック ハドウシーカー（11/27発売）",
-   "shop": "ポケモンセンターオンライン（通販・配送）",
-   "conditions": "10/23 16:00〜10/26 16:59。当選発表10/30 15:00以降、購入10/30 15:00〜11/2 16:59。発送は11/25〜11/28に分散（まとめアカウント情報）。プレイヤーズクラブ本人認証済み枠／未認証枠から選んで応募との情報あり（未確認）",
-   "url": "https://www.pokemoncenter-online.com/lottery/landing-page.html",
-   "sourceUrl": "https://x.com/Pokemon_cojp/status/2113525834677928112",
-   "verified": true,
-   "new": false
-  },
-  {
-   "deadline": "2026-10-26T17:00:00+09:00",
-   "deadlineNote": "締切はまとめアカウント情報。公式ポストは当選通知が10/26 17時以降とだけ記載",
-   "product": "拡張パック30th CELEBRATION（当選24名）",
-   "shop": "おたちゅう。秋葉原5号店（東京・店頭受取）",
-   "conditions": "@otachu_akiba0をフォロー＆対象ポストをリポスト。当選者に10/26 17時以降DM、購入期限11/8（店頭受け取りのみ）",
-   "url": "https://x.com/otachu_akiba0/status/2112492118157763031",
-   "sourceUrl": "https://x.com/AkiPokemonLife/status/2112535467459821688",
-   "verified": true,
-   "new": false
-  },
-  {
-   "deadline": "2026-10-26T21:00:00+09:00",
-   "product": "拡張パック30th CELEBRATION 1BOX（再入荷・7,200円、シュリンク剥がし・開封で渡し）",
-   "shop": "TSUTAYA TRADING CARD 錦糸町（東京・店頭受取）",
-   "conditions": "LivePocket、1人1回・1箱まで。当選発表10/30予定、購入11/2〜11/8",
-   "url": "https://livepocket.jp/e/1dpkl",
-   "sourceUrl": "https://x.com/OnchainOutlaw/status/2113965533247008906",
-   "verified": true,
-   "new": false
-  },
-  {
-   "deadline": "2026-10-26T23:59:00+09:00",
-   "deadlineNote": "締切はまとめアカウント情報（店舗ポストは画像のみ）",
-   "product": "拡張パック30th CELEBRATION 1BOX分（レジで開封しパックのみ渡し）",
-   "shop": "カードラボ AKIHABARAゲーマーズB1店（東京・店頭受取）",
-   "conditions": "@gm_b1xxxをフォロー＋対象ポストにいいね＆リポスト。結果10/27 18時頃X発表、受取10/30〜11/5",
-   "url": "https://x.com/gm_b1xxx/status/2113511345610195028",
-   "sourceUrl": "https://x.com/pokecapresident/status/2113908076130746442",
-   "verified": true,
-   "new": false
-  },
   {
    "deadline": "2026-10-27T21:00:00+09:00",
    "product": "拡張パック メガブレイブ・メガシンフォニア 各1BOX（再入荷・2BOX 10,800円、シュリンク剥がし・開封で渡し）",
@@ -72,6 +30,16 @@
    "url": "https://dorasuta.membercard.jp/lottery",
    "sourceUrl": "https://x.com/PokeGetInfoMain/status/2114343626843308034",
    "verified": false,
+   "new": false
+  },
+  {
+   "deadline": "2026-10-27T23:59:00+09:00",
+   "deadlineNote": "10/27まで（時刻の記載なし）",
+   "product": "拡張パック ハドウシーカー、スペシャルデッキセットMEGA メガオーダイル・メガカイリュー・メガゲンガー",
+   "shop": "おもちゃのペリカン（店頭・受取場所未確認）",
+   "conditions": "店頭の抽選予約申込用紙から応募（まとめアカウント情報、公式は未確認）",
+   "url": "https://x.com/PokeGetInfoMain/status/2114620671699652662",
+   "verified": false,
    "new": true
   },
   {
@@ -82,6 +50,36 @@
    "url": "https://x.com/YS_INFO/status/2114132257279737936",
    "sourceUrl": "https://x.com/pokecayoyaku/status/2114135733091107037",
    "verified": true,
+   "new": false
+  },
+  {
+   "deadline": "2026-10-28T23:59:00+09:00",
+   "product": "拡張パック ハドウシーカー 30パックセット（5,973円・1人1点）",
+   "shop": "イオンスタイルオンライン（通販・配送のみ）",
+   "conditions": "10/27 11:00〜10/28 23:59。会員限定、本人名義のイオンカード払いのみ、1商品につき1世帯1回。当選メール11/9 12:00頃、購入11/9 12:00〜11/10 23:59。店舗受取不可。表記は「30パックセット」でBOX・シュリンクの記載なし",
+   "url": "https://aeonretail.com/Page/k-lottery_pokemon_com.aspx",
+   "sourceUrl": "https://x.com/PokeGetInfoMain/status/2114839739459375288",
+   "verified": true,
+   "new": true
+  },
+  {
+   "deadline": "2026-10-28T23:59:00+09:00",
+   "product": "拡張パック30th CELEBRATION（再販分）",
+   "shop": "ヤマダデンキ（LABI・テックランドのおもちゃ取扱店で店頭購入。東京の対象店舗名は未確認）",
+   "conditions": "10/26 23:00〜10/28 23:59。ヤマダデジタル会員アプリ→店頭セール→抽選販売受付バナーから（Web応募ページなし）。2025/4/1〜2026/10/25にヤマダ店舗で購入履歴あり、またはゴールド会員（新規入会は停止中との情報）。当選発表11/10 12:00頃、購入11/14〜11/20閉店まで（まとめアカウント情報、公式は未確認）",
+   "url": "https://x.com/pokecamatomeru/status/2114720936847106527",
+   "sourceUrl": "https://x.com/PokeGetInfoMain/status/2114655606804255140",
+   "verified": false,
+   "new": true
+  },
+  {
+   "deadline": "2026-10-28T23:59:00+09:00",
+   "product": "拡張パック ハドウシーカー（最大2BOX）",
+   "shop": "ホビーステーション（店頭受取・受取場所未確認）",
+   "conditions": "10/26〜10/28 23:59。当選発表11/5予定、購入11/27〜12/13。今回からシュリンクを外して販売との情報（まとめアカウント情報、公式は未確認）",
+   "url": "https://x.com/gamegetnavi/status/2114838480773607645",
+   "sourceUrl": "https://x.com/KobburA5151/status/2114558319365063011",
+   "verified": false,
    "new": true
   },
   {
@@ -92,6 +90,16 @@
    "conditions": "Googleフォーム。1人（1家族）1回・1商品のみ。当選者のみ10/30までに店舗Xから DM（@TierOneshibuya）。購入10/31〜11/1、現金のみ、マイナンバーカード＋当選画面が必要。発送なし",
    "url": "https://docs.google.com/forms/d/e/1FAIpQLScKDpi1Qikrl0dnOvZT9xuWO2o2vi0kvQWIFEY5A7x2N3Pddg/viewform",
    "sourceUrl": "https://x.com/Zabi_pokeka/status/2112152068429590789",
+   "verified": true,
+   "new": false
+  },
+  {
+   "deadline": "2026-10-28T23:59:00+09:00",
+   "product": "30th CELEBRATION カードセット9種（再販・各1,200円、当選1枚で各1点・最大9点）",
+   "shop": "キデイランド 二子玉川店・吉祥寺店（東京・店頭受取）",
+   "conditions": "LivePocket、1人1回（別店舗への重複応募は可）。当選発表11/4ごろまで、購入11/7〜11/8（身分証必要）",
+   "url": "https://livepocket.jp/e/c8d7-",
+   "sourceUrl": "https://x.com/pokecayoyaku/status/2113285664594915787",
    "verified": true,
    "new": false
   },
@@ -136,6 +144,17 @@
   },
   {
    "deadline": "2026-11-01T23:59:00+09:00",
+   "deadlineNote": "11/1まで（時刻の記載なし）",
+   "product": "拡張パック ストームエメラルダ、30th CELEBRATION カードセット9種セット",
+   "shop": "トレカステーション（店頭受取・受取場所未確認）",
+   "conditions": "10/26〜11/1、店頭QRコードから応募。当選発表11/3、購入11/6〜11/8（まとめアカウント情報、公式は未確認）",
+   "url": "https://x.com/pokecamatomeru/status/2114571654945026281",
+   "sourceUrl": "https://x.com/lifeprep_list/status/2114630351557660805",
+   "verified": false,
+   "new": true
+  },
+  {
+   "deadline": "2026-11-01T23:59:00+09:00",
    "product": "拡張パック ハドウシーカー（予約権の抽選）",
    "shop": "カードボックス池袋店（東京・店頭予約／受取）",
    "conditions": "抽選ロトボックスで応募、10/24〜11/1 23:59。当選後に本人確認証・会員カード・当選画面を持って期限内に店頭で予約し前金を全額支払い。代理不可",
@@ -143,6 +162,17 @@
    "sourceUrl": "https://x.com/sango_from35/status/2113960060368146471",
    "verified": true,
    "new": false
+  },
+  {
+   "deadline": null,
+   "deadlineNote": "期限なし（招待リクエスト）",
+   "product": "拡張パック ハドウシーカー",
+   "shop": "Amazon.co.jp（通販・招待制）",
+   "conditions": "販売元Amazon.co.jpの「招待をリクエスト」から。当選すると招待メールが届き48時間以内に購入（まとめアカウント情報）",
+   "url": "https://www.amazon.co.jp/dp/B0H4PQ6LR5",
+   "sourceUrl": "https://x.com/pokecamatomeru/status/2114585684514390105",
+   "verified": false,
+   "new": true
   },
   {
    "deadline": null,
@@ -177,23 +207,14 @@
  ],
  "upcoming": [
   {
-   "start": "2026-10-26 14:00ごろ？（可能性のみ）",
-   "shop": "Amazon.co.jp（通販）",
+   "start": "2026-10-30〜11-01 各日13:00〜19:00（店頭受付）",
+   "shop": "ビックカメラAKIBA（東京・店頭）",
    "product": "拡張パック ハドウシーカー",
-   "conditions": "いつも通りなら本日14時に商品ページ公開、先着予約か抽選（招待リクエスト）が始まる可能性があるとの情報。未確認",
-   "url": "https://x.com/PokeGetInfoMain/status/2114470808022081741",
+   "conditions": "店頭で応募。2024/10/25〜2026/10/25に1回以上の購入が必要との情報。当選発表11/26、購入11/27〜11/29（まとめアカウント情報、公式は未確認）",
+   "url": "https://x.com/pokecamatomeru/status/2114670368204226610",
+   "sourceUrl": "https://x.com/PokeGetInfoMain/status/2114671232197210539",
    "verified": false,
    "new": true
-  },
-  {
-   "start": "2026-10-26 10:00（本日開始、締切10/28 23:59）",
-   "shop": "キデイランド 二子玉川店・吉祥寺店（東京・店頭受取）",
-   "product": "30th CELEBRATION カードセット9種（再販・各1,200円、当選1枚で各1点・最大9点）",
-   "conditions": "LivePocket、1人1回（キデイランド別店舗への重複応募は可）。当選発表10/29〜11/4 18時ごろ、購入11/7〜11/8（身分証必要）",
-   "url": "https://livepocket.jp/e/c8d7-",
-   "sourceUrl": "https://x.com/pokecayoyaku/status/2113285664594915787",
-   "verified": true,
-   "new": false
   },
   {
    "start": "12月頃（日程未発表）",
