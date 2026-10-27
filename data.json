@@ -1,47 +1,6 @@
 {
- "updated": "2026-10-27T08:20:00+09:00",
+ "updated": "2026-10-28T08:20:00+09:00",
  "items": [
-  {
-   "deadline": "2026-10-27T21:00:00+09:00",
-   "product": "拡張パック メガブレイブ・メガシンフォニア 各1BOX（再入荷・2BOX 10,800円、シュリンク剥がし・開封で渡し）",
-   "shop": "TSUTAYA TRADING CARD 錦糸町（東京・店頭受取）",
-   "conditions": "LivePocket、10/25 10:30〜10/27 21:00、1人1セットまで。当選発表10/30予定、購入11/2〜11/8",
-   "url": "https://livepocket.jp/e/h9fk-",
-   "sourceUrl": "https://x.com/mihorin1122/status/2113985574927581523",
-   "verified": true,
-   "new": false
-  },
-  {
-   "deadline": "2026-10-27T23:59:00+09:00",
-   "deadlineNote": "10/27まで（時刻はまとめアカウントに記載なし）",
-   "product": "30th CELEBRATION プレミアムデッキセット エーフィ・ブラッキー",
-   "shop": "DMMマイカ（トレカ通販・受取場所未確認）",
-   "conditions": "当選発表10/30頃（まとめアカウント情報。公式の応募ページは中身を確認できず未確認）",
-   "url": "https://myca.dmm.com/campaign/eb2jk-kiy-i5",
-   "sourceUrl": "https://x.com/pokecayoyaku/status/2112741701538435544",
-   "verified": false,
-   "new": false
-  },
-  {
-   "deadline": "2026-10-27T23:59:00+09:00",
-   "product": "拡張パック30th CELEBRATION（再販分）",
-   "shop": "ドラゴンスター（店頭受取・受取場所未確認：東京の対象店舗は未確認）",
-   "conditions": "ドラスタ会員の抽選ページから応募。当選発表10/30予定、購入11/1〜11/3（まとめアカウント情報。公式ページは表示確認できず未確認）",
-   "url": "https://dorasuta.membercard.jp/lottery",
-   "sourceUrl": "https://x.com/PokeGetInfoMain/status/2114343626843308034",
-   "verified": false,
-   "new": false
-  },
-  {
-   "deadline": "2026-10-27T23:59:00+09:00",
-   "deadlineNote": "10/27まで（時刻の記載なし）",
-   "product": "拡張パック ハドウシーカー、スペシャルデッキセットMEGA メガオーダイル・メガカイリュー・メガゲンガー",
-   "shop": "おもちゃのペリカン（店頭・受取場所未確認）",
-   "conditions": "店頭の抽選予約申込用紙から応募（まとめアカウント情報、公式は未確認）",
-   "url": "https://x.com/PokeGetInfoMain/status/2114620671699652662",
-   "verified": false,
-   "new": true
-  },
   {
    "deadline": "2026-10-28T20:00:00+09:00",
    "product": "拡張パック ハドウシーカー、拡張パック30th CELEBRATION（11月再販・対象者限定）、ストームエメラルダ（11月再販）、スペシャルデッキセットMEGA メガオーダイル・メガカイリュー・メガゲンガー",
@@ -60,7 +19,7 @@
    "url": "https://aeonretail.com/Page/k-lottery_pokemon_com.aspx",
    "sourceUrl": "https://x.com/PokeGetInfoMain/status/2114839739459375288",
    "verified": true,
-   "new": true
+   "new": false
   },
   {
    "deadline": "2026-10-28T23:59:00+09:00",
@@ -70,7 +29,7 @@
    "url": "https://x.com/pokecamatomeru/status/2114720936847106527",
    "sourceUrl": "https://x.com/PokeGetInfoMain/status/2114655606804255140",
    "verified": false,
-   "new": true
+   "new": false
   },
   {
    "deadline": "2026-10-28T23:59:00+09:00",
@@ -80,7 +39,7 @@
    "url": "https://x.com/gamegetnavi/status/2114838480773607645",
    "sourceUrl": "https://x.com/KobburA5151/status/2114558319365063011",
    "verified": false,
-   "new": true
+   "new": false
   },
   {
    "deadline": "2026-10-28T23:59:00+09:00",
@@ -124,6 +83,15 @@
    "new": false
   },
   {
+   "deadline": "2026-10-29T23:59:00+09:00",
+   "product": "拡張パック30th CELEBRATION、拡張パック ストームエメラルダ",
+   "shop": "CARD CREW（Web応募・受取場所未確認）",
+   "conditions": "Webで応募、通販サイトの会員登録が必要との情報（まとめアカウントの告知画像のみ、公式は未確認）",
+   "url": "https://x.com/chang_tingyao/status/2115071216272699795",
+   "verified": false,
+   "new": true
+  },
+  {
    "deadline": "2026-10-30T23:59:00+09:00",
    "deadlineNote": "期間10/13〜10/30（時刻の記載なし）",
    "product": "拡張パック30th CELEBRATION BOX（当選2名）",
@@ -143,6 +111,16 @@
    "new": false
   },
   {
+   "deadline": "2026-11-01T23:00:00+09:00",
+   "product": "スターターセットMEGA メガゲンガーex",
+   "shop": "しまむらパーク（しまむら公式通販・受取場所未確認）",
+   "conditions": "10/27 13:00〜11/1 23:00。当選発表11/2予定（当選者のみメール）、購入11/2 12:00〜11/7 23:00（まとめアカウント情報。公式ページは表示確認できず未確認）",
+   "url": "https://www.shop-shimamura.com/item/0363100013321/?cl=220",
+   "sourceUrl": "https://x.com/pokecamatomeru/status/2114917737885823448",
+   "verified": false,
+   "new": true
+  },
+  {
    "deadline": "2026-11-01T23:59:00+09:00",
    "deadlineNote": "11/1まで（時刻の記載なし）",
    "product": "拡張パック ストームエメラルダ、30th CELEBRATION カードセット9種セット",
@@ -151,7 +129,7 @@
    "url": "https://x.com/pokecamatomeru/status/2114571654945026281",
    "sourceUrl": "https://x.com/lifeprep_list/status/2114630351557660805",
    "verified": false,
-   "new": true
+   "new": false
   },
   {
    "deadline": "2026-11-01T23:59:00+09:00",
@@ -164,6 +142,36 @@
    "new": false
   },
   {
+   "deadline": "2026-11-02T16:59:00+09:00",
+   "product": "ピカピカボックス2027（中身ランダム）",
+   "shop": "ポケモンセンターオンライン（通販・配送）",
+   "conditions": "10/27 17:00〜11/2 16:59。当選発表11/6 15:00以降、購入11/6 15:00〜11/17 16:59、発送12/11〜12/25予定（まとめアカウント情報。公式ページはアクセス制限で中身を確認できず）",
+   "url": "https://www.pokemoncenter-online.com/lottery/landing-page.html",
+   "sourceUrl": "https://x.com/pokecamatomeru/status/2114990491033034824",
+   "verified": false,
+   "new": true
+  },
+  {
+   "deadline": "2026-11-03T23:59:00+09:00",
+   "product": "スペシャルデッキセットMEGA メガオーダイルex・メガカイリューex・メガゲンガーex（5,500円・1人1個）",
+   "shop": "TCGショップ193 秋葉原店（東京・店頭受取。ほか名古屋・大阪などの店舗も選択可）",
+   "conditions": "Googleフォーム。9/30までに店頭で入会済みの会員限定（通販193NETは対象外）。当選者のみメール、支払い11/5〜11/12に店頭で現金のみ、引取りは発売日から7日間",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSde4He2L40C7XHQ8jBzQir7XbUkLhDdabH4yvhNo_Xglt4CHA/viewform",
+   "sourceUrl": "https://x.com/pokecayoyaku/status/2115024186410430583",
+   "verified": true,
+   "new": true
+  },
+  {
+   "deadline": "2026-11-04T23:59:00+09:00",
+   "product": "30th CELEBRATION カードセット9種セット（10,800円・1セットまで）",
+   "shop": "TCGショップ193 秋葉原店（東京・店頭受取。ほか名古屋・大阪などの店舗も選択可）",
+   "conditions": "Googleフォーム。店頭で入会した会員が対象（193NETとは別）。当選者のみメール、購入11/7〜11/9。締切はまとめアカウント情報",
+   "url": "https://docs.google.com/forms/d/e/1FAIpQLSckLz6kpt0cOvnKUuW2zK4j8QaRgH-8WE7uGup8a5Fra6OCBQ/viewform",
+   "sourceUrl": "https://x.com/PokeGetInfoMain/status/2115198100595781862",
+   "verified": true,
+   "new": true
+  },
+  {
    "deadline": null,
    "deadlineNote": "期限なし（招待リクエスト）",
    "product": "拡張パック ハドウシーカー",
@@ -172,7 +180,7 @@
    "url": "https://www.amazon.co.jp/dp/B0H4PQ6LR5",
    "sourceUrl": "https://x.com/pokecamatomeru/status/2114585684514390105",
    "verified": false,
-   "new": true
+   "new": false
   },
   {
    "deadline": null,
@@ -208,13 +216,13 @@
  "upcoming": [
   {
    "start": "2026-10-30〜11-01 各日13:00〜19:00（店頭受付）",
-   "shop": "ビックカメラAKIBA（東京・店頭）",
+   "shop": "ビックカメラ AKIBA・渋谷ハチ公口店・新宿西口店（東京・店頭）",
    "product": "拡張パック ハドウシーカー",
-   "conditions": "店頭で応募。2024/10/25〜2026/10/25に1回以上の購入が必要との情報。当選発表11/26、購入11/27〜11/29（まとめアカウント情報、公式は未確認）",
-   "url": "https://x.com/pokecamatomeru/status/2114670368204226610",
+   "conditions": "店頭で応募。2024/10/25〜2026/10/25に1回以上の購入（10/25までに発行・登録のビックポイントカード）が必要との情報。当選発表11/26、購入11/27〜11/29（まとめアカウント情報、公式は未確認）",
+   "url": "https://x.com/TCG_SKY/status/2114985829676539965",
    "sourceUrl": "https://x.com/PokeGetInfoMain/status/2114671232197210539",
    "verified": false,
-   "new": true
+   "new": false
   },
   {
    "start": "12月頃（日程未発表）",
